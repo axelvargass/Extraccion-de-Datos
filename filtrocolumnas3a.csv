@@ -1,0 +1,240 @@
+,name,continent,region,surface_area,government_form
+0,Aruba,North America,Caribbean,193.0,Nonmetropolitan Territory of The Netherlands
+1,Afghanistan,Asia,Southern and Central Asia,652090.0,Islamic Emirate
+2,Angola,Africa,Central Africa,1246700.0,Republic
+3,Anguilla,North America,Caribbean,96.0,Dependent Territory of the uK
+4,Albania,Europe,Southern Europe,28748.0,Republic
+5,Andorra,Europe,Southern Europe,468.0,Parliamentary Coprincipality
+6,Netherlands Antilles,North America,Caribbean,800.0,Nonmetropolitan Territory of The Netherlands
+7,united Arab Emirates,Asia,Middle East,83600.0,Emirate Federation
+8,Argentina,South America,South America,2780400.0,Federal Republic
+9,Armenia,Asia,Middle East,29800.0,Republic
+10,American Samoa,Oceania,Polynesia,199.0,uS Territory
+11,Antarctica,Antarctica,Antarctica,13120000.0,Co-administrated
+12,French Southern territories,Antarctica,Antarctica,7780.0,Nonmetropolitan Territory of France
+13,Antigua and Barbuda,North America,Caribbean,442.0,Constitutional Monarchy
+14,Australia,Oceania,Australia and New Zealand,7741220.0,"Constitutional Monarchy, Federation"
+15,Austria,Europe,Western Europe,83859.0,Federal Republic
+16,Azerbaijan,Asia,Middle East,86600.0,Federal Republic
+17,Burundi,Africa,Eastern Africa,27834.0,Republic
+18,Belgium,Europe,Western Europe,30518.0,"Constitutional Monarchy, Federation"
+19,Benin,Africa,Western Africa,112622.0,Republic
+20,Burkina Faso,Africa,Western Africa,274000.0,Republic
+21,Bangladesh,Asia,Southern and Central Asia,143998.0,Republic
+22,Bulgaria,Europe,Eastern Europe,110994.0,Republic
+23,Bahrain,Asia,Middle East,694.0,Monarchy (Emirate)
+24,Bahamas,North America,Caribbean,13878.0,Constitutional Monarchy
+25,Bosnia and Herzegovina,Europe,Southern Europe,51197.0,Federal Republic
+26,Belarus,Europe,Eastern Europe,207600.0,Republic
+27,Belize,North America,Central America,22696.0,Constitutional Monarchy
+28,Bermuda,North America,North America,53.0,Dependent Territory of the uK
+29,Bolivia,South America,South America,1098581.0,Republic
+30,Brazil,South America,South America,8547403.0,Federal Republic
+31,Barbados,North America,Caribbean,430.0,Constitutional Monarchy
+32,Brunei,Asia,Southeast Asia,5765.0,Monarchy (Sultanate)
+33,Bhutan,Asia,Southern and Central Asia,47000.0,Monarchy
+34,Bouvet Island,Antarctica,Antarctica,59.0,Dependent Territory of Norway
+35,Botswana,Africa,Southern Africa,581730.0,Republic
+36,Central African Republic,Africa,Central Africa,622984.0,Republic
+37,Canada,North America,North America,9970610.0,"Constitutional Monarchy, Federation"
+38,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,14.0,Territory of Australia
+39,Switzerland,Europe,Western Europe,41284.0,Federation
+40,Chile,South America,South America,756626.0,Republic
+41,China,Asia,Eastern Asia,9572900.0,People'sRepublic
+42,Cote dIvoire,Africa,Western Africa,322463.0,Republic
+43,Cameroon,Africa,Central Africa,475442.0,Republic
+44,"Congo, The Democratic Republic of the",Africa,Central Africa,2344858.0,Republic
+45,Congo,Africa,Central Africa,342000.0,Republic
+46,Cook Islands,Oceania,Polynesia,236.0,Nonmetropolitan Territory of New Zealand
+47,Colombia,South America,South America,1138914.0,Republic
+48,Comoros,Africa,Eastern Africa,1862.0,Republic
+49,Cape Verde,Africa,Western Africa,4033.0,Republic
+50,Costa Rica,North America,Central America,51100.0,Republic
+51,Cuba,North America,Caribbean,110861.0,Socialistic Republic
+52,Christmas Island,Oceania,Australia and New Zealand,135.0,Territory of Australia
+53,Cayman Islands,North America,Caribbean,264.0,Dependent Territory of the uK
+54,Cyprus,Asia,Middle East,9251.0,Republic
+55,Czech Republic,Europe,Eastern Europe,78866.0,Republic
+56,Germany,Europe,Western Europe,357022.0,Federal Republic
+57,Djibouti,Africa,Eastern Africa,23200.0,Republic
+58,Dominica,North America,Caribbean,751.0,Republic
+59,Denmark,Europe,Nordic Countries,43094.0,Constitutional Monarchy
+60,Dominican Republic,North America,Caribbean,48511.0,Republic
+61,Algeria,Africa,Northern Africa,2381741.0,Republic
+62,Ecuador,South America,South America,283561.0,Republic
+63,Egypt,Africa,Northern Africa,1001449.0,Republic
+64,Eritrea,Africa,Eastern Africa,117600.0,Republic
+65,Western Sahara,Africa,Northern Africa,266000.0,Occupied by Marocco
+66,Spain,Europe,Southern Europe,505992.0,Constitutional Monarchy
+67,Estonia,Europe,Baltic Countries,45227.0,Republic
+68,Ethiopia,Africa,Eastern Africa,1104300.0,Republic
+69,Finland,Europe,Nordic Countries,338145.0,Republic
+70,Fiji Islands,Oceania,Melanesia,18274.0,Republic
+71,Falkland Islands,South America,South America,12173.0,Dependent Territory of the uK
+72,France,Europe,Western Europe,551500.0,Republic
+73,Faroe Islands,Europe,Nordic Countries,1399.0,Part of Denmark
+74,"Micronesia, Federated States of",Oceania,Micronesia,702.0,Federal Republic
+75,Gabon,Africa,Central Africa,267668.0,Republic
+76,united Kingdom,Europe,British Islands,242900.0,Constitutional Monarchy
+77,Georgia,Asia,Middle East,69700.0,Republic
+78,Ghana,Africa,Western Africa,238533.0,Republic
+79,Gibraltar,Europe,Southern Europe,6.0,Dependent Territory of the uK
+80,Guinea,Africa,Western Africa,245857.0,Republic
+81,Guadeloupe,North America,Caribbean,1705.0,Overseas Department of France
+82,Gambia,Africa,Western Africa,11295.0,Republic
+83,Guinea-Bissau,Africa,Western Africa,36125.0,Republic
+84,Equatorial Guinea,Africa,Central Africa,28051.0,Republic
+85,Greece,Europe,Southern Europe,131626.0,Republic
+86,Grenada,North America,Caribbean,344.0,Constitutional Monarchy
+87,Greenland,North America,North America,2166090.0,Part of Denmark
+88,Guatemala,North America,Central America,108889.0,Republic
+89,French Guiana,South America,South America,90000.0,Overseas Department of France
+90,Guam,Oceania,Micronesia,549.0,uS Territory
+91,Guyana,South America,South America,214969.0,Republic
+92,Hong Kong,Asia,Eastern Asia,1075.0,Special Administrative Region of China
+93,Heard Island and McDonald Islands,Antarctica,Antarctica,359.0,Territory of Australia
+94,Honduras,North America,Central America,112088.0,Republic
+95,Croatia,Europe,Southern Europe,56538.0,Republic
+96,Haiti,North America,Caribbean,27750.0,Republic
+97,Hungary,Europe,Eastern Europe,93030.0,Republic
+98,Indonesia,Asia,Southeast Asia,1904569.0,Republic
+99,India,Asia,Southern and Central Asia,3287263.0,Federal Republic
+100,British Indian Ocean Territory,Africa,Eastern Africa,78.0,Dependent Territory of the uK
+101,Ireland,Europe,British Islands,70273.0,Republic
+102,Iran,Asia,Southern and Central Asia,1648195.0,Islamic Republic
+103,Iraq,Asia,Middle East,438317.0,Republic
+104,Iceland,Europe,Nordic Countries,103000.0,Republic
+105,Israel,Asia,Middle East,21056.0,Republic
+106,Italy,Europe,Southern Europe,301316.0,Republic
+107,Jamaica,North America,Caribbean,10990.0,Constitutional Monarchy
+108,Jordan,Asia,Middle East,88946.0,Constitutional Monarchy
+109,Japan,Asia,Eastern Asia,377829.0,Constitutional Monarchy
+110,Kazakstan,Asia,Southern and Central Asia,2724900.0,Republic
+111,Kenya,Africa,Eastern Africa,580367.0,Republic
+112,Kyrgyzstan,Asia,Southern and Central Asia,199900.0,Republic
+113,Cambodia,Asia,Southeast Asia,181035.0,Constitutional Monarchy
+114,Kiribati,Oceania,Micronesia,726.0,Republic
+115,Saint Kitts and Nevis,North America,Caribbean,261.0,Constitutional Monarchy
+116,South Korea,Asia,Eastern Asia,99434.0,Republic
+117,Kuwait,Asia,Middle East,17818.0,Constitutional Monarchy (Emirate)
+118,Laos,Asia,Southeast Asia,236800.0,Republic
+119,Lebanon,Asia,Middle East,10400.0,Republic
+120,Liberia,Africa,Western Africa,111369.0,Republic
+121,Libyan Arab Jamahiriya,Africa,Northern Africa,1759540.0,Socialistic State
+122,Saint Lucia,North America,Caribbean,622.0,Constitutional Monarchy
+123,Liechtenstein,Europe,Western Europe,160.0,Constitutional Monarchy
+124,Sri Lanka,Asia,Southern and Central Asia,65610.0,Republic
+125,Lesotho,Africa,Southern Africa,30355.0,Constitutional Monarchy
+126,Lithuania,Europe,Baltic Countries,65301.0,Republic
+127,Luxembourg,Europe,Western Europe,2586.0,Constitutional Monarchy
+128,Latvia,Europe,Baltic Countries,64589.0,Republic
+129,Macao,Asia,Eastern Asia,18.0,Special Administrative Region of China
+130,Morocco,Africa,Northern Africa,446550.0,Constitutional Monarchy
+131,Monaco,Europe,Western Europe,1.5,Constitutional Monarchy
+132,Moldova,Europe,Eastern Europe,33851.0,Republic
+133,Madagascar,Africa,Eastern Africa,587041.0,Federal Republic
+134,Maldives,Asia,Southern and Central Asia,298.0,Republic
+135,Mexico,North America,Central America,1958201.0,Federal Republic
+136,Marshall Islands,Oceania,Micronesia,181.0,Republic
+137,Macedonia,Europe,Southern Europe,25713.0,Republic
+138,Mali,Africa,Western Africa,1240192.0,Republic
+139,Malta,Europe,Southern Europe,316.0,Republic
+140,Myanmar,Asia,Southeast Asia,676578.0,Republic
+141,Mongolia,Asia,Eastern Asia,1566500.0,Republic
+142,Northern Mariana Islands,Oceania,Micronesia,464.0,Commonwealth of the uS
+143,Mozambique,Africa,Eastern Africa,801590.0,Republic
+144,Mauritania,Africa,Western Africa,1025520.0,Republic
+145,Montserrat,North America,Caribbean,102.0,Dependent Territory of the uK
+146,Martinique,North America,Caribbean,1102.0,Overseas Department of France
+147,Mauritius,Africa,Eastern Africa,2040.0,Republic
+148,Malawi,Africa,Eastern Africa,118484.0,Republic
+149,Malaysia,Asia,Southeast Asia,329758.0,"Constitutional Monarchy, Federation"
+150,Mayotte,Africa,Eastern Africa,373.0,Territorial Collectivity of France
+151,Namibia,Africa,Southern Africa,824292.0,Republic
+152,New Caledonia,Oceania,Melanesia,18575.0,Nonmetropolitan Territory of France
+153,Niger,Africa,Western Africa,1267000.0,Republic
+154,Norfolk Island,Oceania,Australia and New Zealand,36.0,Territory of Australia
+155,Nigeria,Africa,Western Africa,923768.0,Federal Republic
+156,Nicaragua,North America,Central America,130000.0,Republic
+157,Niue,Oceania,Polynesia,260.0,Nonmetropolitan Territory of New Zealand
+158,Netherlands,Europe,Western Europe,41526.0,Constitutional Monarchy
+159,Norway,Europe,Nordic Countries,323877.0,Constitutional Monarchy
+160,Nepal,Asia,Southern and Central Asia,147181.0,Constitutional Monarchy
+161,Nauru,Oceania,Micronesia,21.0,Republic
+162,New Zealand,Oceania,Australia and New Zealand,270534.0,Constitutional Monarchy
+163,Oman,Asia,Middle East,309500.0,Monarchy (Sultanate)
+164,Pakistan,Asia,Southern and Central Asia,796095.0,Republic
+165,Panama,North America,Central America,75517.0,Republic
+166,Pitcairn,Oceania,Polynesia,49.0,Dependent Territory of the uK
+167,Peru,South America,South America,1285216.0,Republic
+168,Philippines,Asia,Southeast Asia,300000.0,Republic
+169,Palau,Oceania,Micronesia,459.0,Republic
+170,Papua New Guinea,Oceania,Melanesia,462840.0,Constitutional Monarchy
+171,Poland,Europe,Eastern Europe,323250.0,Republic
+172,Puerto Rico,North America,Caribbean,8875.0,Commonwealth of the uS
+173,North Korea,Asia,Eastern Asia,120538.0,Socialistic Republic
+174,Portugal,Europe,Southern Europe,91982.0,Republic
+175,Paraguay,South America,South America,406752.0,Republic
+176,Palestine,Asia,Middle East,6257.0,Autonomous Area
+177,French Polynesia,Oceania,Polynesia,4000.0,Nonmetropolitan Territory of France
+178,Qatar,Asia,Middle East,11000.0,Monarchy
+179,Reunion,Africa,Eastern Africa,2510.0,Overseas Department of France
+180,Romania,Europe,Eastern Europe,238391.0,Republic
+181,Russian Federation,Europe,Eastern Europe,17075400.0,Federal Republic
+182,Rwanda,Africa,Eastern Africa,26338.0,Republic
+183,Saudi Arabia,Asia,Middle East,2149690.0,Monarchy
+184,Sudan,Africa,Northern Africa,2505813.0,Islamic Republic
+185,Senegal,Africa,Western Africa,196722.0,Republic
+186,Singapore,Asia,Southeast Asia,618.0,Republic
+187,South Georgia and the South Sandwich Islands,Antarctica,Antarctica,3903.0,Dependent Territory of the uK
+188,Saint Helena,Africa,Western Africa,314.0,Dependent Territory of the uK
+189,Svalbard and Jan Mayen,Europe,Nordic Countries,62422.0,Dependent Territory of Norway
+190,Solomon Islands,Oceania,Melanesia,28896.0,Constitutional Monarchy
+191,Sierra Leone,Africa,Western Africa,71740.0,Republic
+192,El Salvador,North America,Central America,21041.0,Republic
+193,San Marino,Europe,Southern Europe,61.0,Republic
+194,Somalia,Africa,Eastern Africa,637657.0,Republic
+195,Saint Pierre and Miquelon,North America,North America,242.0,Territorial Collectivity of France
+196,Sao Tome and Principe,Africa,Central Africa,964.0,Republic
+197,Suriname,South America,South America,163265.0,Republic
+198,Slovakia,Europe,Eastern Europe,49012.0,Republic
+199,Slovenia,Europe,Southern Europe,20256.0,Republic
+200,Sweden,Europe,Nordic Countries,449964.0,Constitutional Monarchy
+201,Swaziland,Africa,Southern Africa,17364.0,Monarchy
+202,Seychelles,Africa,Eastern Africa,455.0,Republic
+203,Syria,Asia,Middle East,185180.0,Republic
+204,Turks and Caicos Islands,North America,Caribbean,430.0,Dependent Territory of the uK
+205,Chad,Africa,Central Africa,1284000.0,Republic
+206,Togo,Africa,Western Africa,56785.0,Republic
+207,Thailand,Asia,Southeast Asia,513115.0,Constitutional Monarchy
+208,Tajikistan,Asia,Southern and Central Asia,143100.0,Republic
+209,Tokelau,Oceania,Polynesia,12.0,Nonmetropolitan Territory of New Zealand
+210,Turkmenistan,Asia,Southern and Central Asia,488100.0,Republic
+211,East Timor,Asia,Southeast Asia,14874.0,Administrated by the uN
+212,Tonga,Oceania,Polynesia,650.0,Monarchy
+213,Trinidad and Tobago,North America,Caribbean,5130.0,Republic
+214,Tunisia,Africa,Northern Africa,163610.0,Republic
+215,Turkey,Asia,Middle East,774815.0,Republic
+216,Tuvalu,Oceania,Polynesia,26.0,Constitutional Monarchy
+217,Taiwan,Asia,Eastern Asia,36188.0,Republic
+218,Tanzania,Africa,Eastern Africa,883749.0,Republic
+219,uganda,Africa,Eastern Africa,241038.0,Republic
+220,ukraine,Europe,Eastern Europe,603700.0,Republic
+221,united States Minor Outlying Islands,Oceania,Micronesia/Caribbean,16.0,Dependent Territory of the uS
+222,uruguay,South America,South America,175016.0,Republic
+223,united States,North America,North America,9363520.0,Federal Republic
+224,uzbekistan,Asia,Southern and Central Asia,447400.0,Republic
+225,Holy See (Vatican City State),Europe,Southern Europe,0.4,Independent Church State
+226,Saint Vincent and the Grenadines,North America,Caribbean,388.0,Constitutional Monarchy
+227,Venezuela,South America,South America,912050.0,Federal Republic
+228,"Virgin Islands, British",North America,Caribbean,151.0,Dependent Territory of the uK
+229,"Virgin Islands, u.S.",North America,Caribbean,347.0,uS Territory
+230,Vietnam,Asia,Southeast Asia,331689.0,Socialistic Republic
+231,Vanuatu,Oceania,Melanesia,12189.0,Republic
+232,Wallis and Futuna,Oceania,Polynesia,200.0,Nonmetropolitan Territory of France
+233,Samoa,Oceania,Polynesia,2831.0,Parlementary Monarchy
+234,Yemen,Asia,Middle East,527968.0,Republic
+235,Yugoslavia,Europe,Southern Europe,102173.0,Federal Republic
+236,South Africa,Africa,Southern Africa,1221037.0,Republic
+237,Zambia,Africa,Eastern Africa,752618.0,Republic
+238,Zimbabwe,Africa,Eastern Africa,390757.0,Republic

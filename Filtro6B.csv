@@ -1,0 +1,4 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+South America,CHL,Chile,South America,756626.0,1810.0,15211000,75.7,72949.0,75780.0,Chile,Republic,Ricardo Lagos Escobar,554.0,CL
+South America,COL,Colombia,South America,1138914.0,1810.0,42321000,70.3,102896.0,105116.0,Colombia,Republic,Andres Pastrana Arango,2257.0,CO
+North America,MEX,Mexico,Central America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX

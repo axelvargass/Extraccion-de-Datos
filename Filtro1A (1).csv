@@ -1,0 +1,38 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+0,ABW,Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+3,AIA,Anguilla,North America,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+6,ANT,Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+13,ATG,Antigua and Barbuda,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+24,BHS,Bahamas,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+27,BLZ,Belize,North America,Central America,22696.0,1981.0,241000,70.9,630.0,616.0,Belize,Constitutional Monarchy,Elisabeth II,185.0,BZ
+28,BMu,Bermuda,North America,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+31,BRB,Barbados,North America,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+37,CAN,Canada,North America,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+50,CRI,Costa Rica,North America,Central America,51100.0,1821.0,4023000,75.8,10226.0,9757.0,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584.0,CR
+51,CuB,Cuba,North America,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+53,CYM,Cayman Islands,North America,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+58,DMA,Dominica,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+60,DOM,Dominican Republic,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+81,GLP,Guadeloupe,North America,Caribbean,1705.0,,456000,77.0,3501.0,,Guadeloupe,Overseas Department of France,Jacques Chirac,919.0,GP
+86,GRD,Grenada,North America,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+87,GRL,Greenland,North America,North America,2166090.0,,56000,68.1,0.0,,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917.0,GL
+88,GTM,Guatemala,North America,Central America,108889.0,1821.0,11385000,66.2,19008.0,17797.0,Guatemala,Republic,Alfonso Portillo Cabrera,922.0,GT
+94,HND,Honduras,North America,Central America,112088.0,1838.0,6485000,69.9,5333.0,4697.0,Honduras,Republic,Carlos Roberto Flores Facusse,933.0,HN
+96,HTI,Haiti,North America,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+107,JAM,Jamaica,North America,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
+115,KNA,Saint Kitts and Nevis,North America,Caribbean,261.0,1983.0,38000,70.7,299.0,,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064.0,KN
+122,LCA,Saint Lucia,North America,Caribbean,622.0,1979.0,154000,72.3,571.0,,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065.0,LC
+135,MEX,Mexico,North America,Central America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX
+145,MSR,Montserrat,North America,Caribbean,102.0,,11000,78.0,109.0,,Montserrat,Dependent Territory of the uK,Elisabeth II,2697.0,MS
+146,MTQ,Martinique,North America,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+156,NIC,Nicaragua,North America,Central America,130000.0,1838.0,5074000,68.7,1988.0,2023.0,Nicaragua,Republic,Arnoldo Aleman Lacayo,2734.0,NI
+165,PAN,Panama,North America,Central America,75517.0,1903.0,2856000,75.5,9131.0,8700.0,Panama,Republic,Mireya Elisa Moscoso RodrIguez,2882.0,PA
+172,PRI,Puerto Rico,North America,Caribbean,8875.0,,3869000,75.6,34100.0,32100.0,Puerto Rico,Commonwealth of the uS,George W. Bush,2919.0,PR
+192,SLV,El Salvador,North America,Central America,21041.0,1841.0,6276000,69.7,11863.0,11203.0,El Salvador,Republic,Francisco Guillermo Flores Perez,645.0,SV
+195,SPM,Saint Pierre and Miquelon,North America,North America,242.0,,7000,77.6,0.0,,Saint-Pierre-et-Miquelon,Territorial Collectivity of France,Jacques Chirac,3067.0,PM
+204,TCA,Turks and Caicos Islands,North America,Caribbean,430.0,,17000,73.3,96.0,,The Turks and Caicos Islands,Dependent Territory of the uK,Elisabeth II,3423.0,TC
+213,TTO,Trinidad and Tobago,North America,Caribbean,5130.0,1962.0,1295000,68.0,6232.0,5867.0,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336.0,TT
+223,uSA,united States,North America,North America,9363520.0,1776.0,278357000,77.1,8510700.0,8110900.0,united States,Federal Republic,George W. Bush,3813.0,uS
+226,VCT,Saint Vincent and the Grenadines,North America,Caribbean,388.0,1979.0,114000,72.3,285.0,,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066.0,VC
+228,VGB,"Virgin Islands, British",North America,Caribbean,151.0,,21000,75.4,612.0,573.0,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537.0,VG
+229,VIR,"Virgin Islands, u.S.",North America,Caribbean,347.0,,93000,78.1,0.0,,Virgin Islands of the united States,uS Territory,George W. Bush,4067.0,VI
